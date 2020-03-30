@@ -1,4 +1,10 @@
-## Getting Started
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lolcookie/elm-firebase-realworld-example-app) 
+
+## Logging in to firebase with gitpod
+
+```
+firebase login --no-localhost
+```
 
 ### Install Elm Language server extension for vscode
 
