@@ -1,4 +1,5 @@
 tasks:
+  - before: npm install -g firebase-tools
   - init: npm install && npm run build
     command: npm run start
     command: npm serve
